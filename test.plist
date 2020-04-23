@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>ipa包的下载地址，如：http://192.168.50.17:7001/移动采编-JX202004211821.ipa</string>
+                        <string>https://github.com/lsw-lnnl/test-ios-app/blob/master/%E7%A7%BB%E5%8A%A8%E9%87%87%E7%BC%96-JX202004211821.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
